@@ -39,7 +39,7 @@
 
 <p align="center">
     <a href="https://github.com/Manojpatil123/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manojpatil123 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manojpatil123&theme=black-ice&count_private=true&include_all_commits=true&Cache-Control:  s-maxage=0&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manojpatil123 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manojpatil123&theme=black-ice&count_private=true&include_all_commits=true&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
