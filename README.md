@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working in **Cad MacRo**
+- 🔭 I’m currently working in **WAY COOL**
 
 - 🌱 I’m currently learning **Data science,Data Structures and Algorithms.**
 
